@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -63,7 +61,7 @@ const abhishek: Developer = {
 
 ## Tech Stack
 
-<div align="center">
+<div align="start">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -137,21 +135,6 @@ const abhishek: Developer = {
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Akdevit/pg-management-dashboard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akdevit&repo=pg-management-dashboard&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://safesky.netlify.app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akdevit&repo=weather-aqi-dashboard&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
 ### PG Management Dashboard
 > `React.js` `Next.js` `TypeScript` `Redux Toolkit` `React Query` `Tailwind CSS` `AWS S3` `Firebase`
 
@@ -174,7 +157,7 @@ const abhishek: Developer = {
 
 ## GitHub Stats
 
-<div align="center">
+<div align="start">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akdevit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akdevit&theme=tokyonight&hide_border=true" />
@@ -197,15 +180,6 @@ const abhishek: Developer = {
 
 <br/>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Akdevit&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
-</div>
-
-<br/>
 
 ---
 
@@ -222,40 +196,12 @@ const abhishek: Developer = {
 
 ## Connect
 
-<div align="center">
+<div align="start">
 
 <a href="https://linkedin.com/in/abhishek-kumar">
   <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<a href="mailto:abhishek656550@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abhishek656550%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Akdevit">
-  <img src="https://img.shields.io/badge/GitHub-Akdevit-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://safesky.netlify.app">
-  <img src="https://img.shields.io/badge/Live_Project-SafeSky-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
 
 </div>
 
 <br/>
-
----
-
-## Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting.+Let%27s+build+something+great+together." />
-</div>
