@@ -198,7 +198,7 @@ const abhishek: Developer = {
 
 <div align="start">
 
-<a href="[https://linkedin.com/in/abhishek-kumar](https://www.linkedin.com/in/abhishek-kumar-123a492a3)">
+<a href="[(https://www.linkedin.com/in/abhishek-kumar-123a492a3](https://www.linkedin.com/in/abhishek-kumar-123a492a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
   <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
